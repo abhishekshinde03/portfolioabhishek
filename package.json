@@ -1,11 +1,11 @@
 {
-  "start":
   "name": "assignment1--200449413",
   "version": "1.0.0",
   "description": "Portfolio of Abhishek Shinde student id is 200449413.",
   "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
   },
   "repository": {
     "type": "git",
@@ -21,8 +21,8 @@
     "Node",
     "JS."
   ],
-  "engines”: {
-  "node":"8.4.0"
+  "engines": {
+    "node": "8.4.0"
   },
   "author": "Abhishek Shinde (200449413)",
   "license": "ISC",
