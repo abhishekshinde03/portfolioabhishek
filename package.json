@@ -1,0 +1,33 @@
+{
+  "name": "assignment1--200449413",
+  "version": "1.0.0",
+  "description": "Portfolio of Abhishek Shinde student id is 200449413.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shindeabhi27/Node-Express-JS-Projects.git"
+  },
+  "keywords": [
+    "ABhishek",
+    "shinde",
+    "200449413",
+    "JS",
+    "Express",
+    "JS",
+    "Node",
+    "JS."
+  ],
+  "author": "Abhishek Shinde (200449413)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shindeabhi27/Node-Express-JS-Projects/issues"
+  },
+  "homepage": "https://github.com/shindeabhi27/Node-Express-JS-Projects#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-handlebars": "^5.3.2"
+  }
+}
