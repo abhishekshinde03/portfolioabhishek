@@ -31,6 +31,6 @@ app.get('/', (req, res) => {
     res.render('main', {layout: 'index'}); 
 });
 
-app.listen(port, () => {
-    console.log(`App listening to port ${port}`);
+app.listen(process.env.PORT || 3003, () => {
+console.log(“server started at port 3003”);
 });
